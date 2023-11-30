@@ -2,7 +2,7 @@
 A basic python app to connect to an existing kasm server, used for practicing kiosk breakouts.
 
 This app was written using the Kasm Developer API (https://kasmweb.com/docs/develop/developers/developer_api.html)
-This app has many funcitons, such as connecting to a kasm, destroying all current running kasm sessions, and allowing for custom commands to be added into a box on startup.
+This app has many functions, such as connecting to a kasm, destroying all current running kasm sessions, and allowing for custom commands to be added into a box on startup.
 In order to use this app, you must already have a Kasm server set up, along with at least one Kasm Workspace set up.
 
 USAGE:
